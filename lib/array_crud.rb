@@ -8,11 +8,12 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = ["wow", "I", "am", "really"]
-  element = [dumb]
+  element.push = [dumb]
 end 
 
 def add_element_to_start_of_array
-  
+  array = ["wow", "I", "am", "really"]
+  element.unshift = [dumb]
 end
 
 def add_element_to_start_of_array(array, element)
