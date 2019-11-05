@@ -7,7 +7,10 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  [Kaili, Ashley, Emilee, Natalie]
+  array = ["wow", "I", "am", "really"]
+  element = [dumb]
+end 
+
   add_element_to_start_of_array>>(Laura)
 end
 
